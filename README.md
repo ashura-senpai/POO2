@@ -1,2 +1,4 @@
 # POO2
-aulas de POO 2semestre 2023
+Repositórios dentro da pasta SCR > MAIN > TEST > JAVA
+
+Ignorar a pasta .IDEIA
